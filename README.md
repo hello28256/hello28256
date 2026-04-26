@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+问名字还是问机制
 <!--
 **hello28256/hello28256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
