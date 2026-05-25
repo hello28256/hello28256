@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Reading:(阅读)[https://continuous-failing-05c.notion.site/33028a02f28a80888c31ffc465cf4b07]
+Reading:[阅读笔记持续更新...](https://continuous-failing-05c.notion.site/33028a02f28a80888c31ffc465cf4b07)
+
 <!--
 **hello28256/hello28256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
